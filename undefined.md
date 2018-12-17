@@ -1,7 +1,6 @@
 # Dynamic Programming
 
-In a simple language, DP is to use more space to make your algorithm more efficiency. In other words, if there are many repetition in the algorithm, we can store the intermediate results in order to use it afterward.
-简而言之，以空间换取时间。
+In a simple language, DP is to use more space to make your algorithm more efficiency. In other words, if there are many repetition in the algorithm, we can store the intermediate results in order to use it afterward. 简而言之，以空间换取时间。
 
 ## Characteristics of DP Problem
 
@@ -12,3 +11,4 @@ In a simple language, DP is to use more space to make your algorithm more effici
 ## Typical DP Problem
 
 [_this part is referenced from the Hongkai's Blog_](http://kaicoding.blogspot.com/2016/07/dynamic-programming-summary-leetcode.html)
+
