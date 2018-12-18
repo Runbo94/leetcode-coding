@@ -12,3 +12,19 @@ In a simple language, DP is to use more space to make your algorithm more effici
 ## Typical DP Problem
 
 [_this part is referenced from the Hongkai's Blog_](http://kaicoding.blogspot.com/2016/07/dynamic-programming-summary-leetcode.html)
+
+**Please code first. And I will summarize these latter.**
+
+### Find the solution with optimal value
+
+#### Index-based bottom-up method
+
+- array
+  - [53. maximum subarray](https://leetcode.com/problems/maximum-subarray/)
+  - [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+  - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+  - [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+  - [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
+  - [139. Word Break](https://leetcode.com/problems/word-break/)
+- matrix
+  - [120. Triangle](https://leetcode.com/problems/triangle/)
