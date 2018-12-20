@@ -13,7 +13,7 @@ In a simple language, DP is to use more space to make your algorithm more effici
 
 [_this part is referenced from the Hongkai's Blog_](http://kaicoding.blogspot.com/2016/07/dynamic-programming-summary-leetcode.html)
 
-**Please code first. And I will summarize these latter.**
+Please **code first**. And I will summarize these latter.
 
 ### Find the solution with optimal value
 
@@ -28,3 +28,13 @@ In a simple language, DP is to use more space to make your algorithm more effici
   - [139. Word Break](https://leetcode.com/problems/word-break/)
 - matrix
   - [120. Triangle](https://leetcode.com/problems/triangle/)
+  - [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+  - [221. Maximal Square](https://leetcode.com/problems/maximal-square/)
+  - [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+  - [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
+  - [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+  - [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+
+#### Index-based bottom-up method, with multiple states
+
+These problems have extra constraints.<br>

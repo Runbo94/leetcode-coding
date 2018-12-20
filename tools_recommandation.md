@@ -7,14 +7,15 @@
   - Download [visual studio code](https://code.visualstudio.com/)
   - Download some extension pack in visual studio code.
     - Open the visual studio code, find the **Extension** button
-      ![extension](./pictures/extension_button.jpg)
+      ![extension](./pictures/extension_button.jpg) <br>
     - Language Support for Java(TM) by Red Hat.
     - Debugger for Java.
   - Create file and coding the solution.
-    ![create_new_file](./pictures/vscode_create_new_java.jpg)
+    ![create_new_file](./pictures/vscode_create_new_java.jpg) <br>
 
-    ![create_new_class](./pictures/vscode_create_new_class.jpg)
-    The simple code structure
+    ![create_new_class](./pictures/vscode_create_new_class.jpg) <br>
+
+    The simple code structure <br>
 
     ```java
         package com.leetcode.exercise;
