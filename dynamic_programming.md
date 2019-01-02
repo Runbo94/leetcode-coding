@@ -38,3 +38,12 @@ Please **code first**. And I will summarize these latter.
 #### Index-based bottom-up method, with multiple states
 
 These problems have extra constraints.<br>
+
+- [198. House Robber]()
+- [213. House Robber II]()
+- [256. Paint House(3 states/colors)]()
+- [265. Paint House II(k states/colors)]() **Hard**
+- [276. Paint Fence]()
+- [123. Best Time to Buy and Sell Stock III]() **Hard**
+- [188. Best Time to Buy and Sell Stock IV]() **Hard**
+- [309. Best Time to Buy and Sell Stock with Cooldown]
