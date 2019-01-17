@@ -46,4 +46,9 @@ These problems have extra constraints.<br>
 - [276. Paint Fence]()
 - [123. Best Time to Buy and Sell Stock III]() **Hard**
 - [188. Best Time to Buy and Sell Stock IV]() **Hard**
-- [309. Best Time to Buy and Sell Stock with Cooldown]
+- [309. Best Time to Buy and Sell Stock with Cooldown]()
+- [132. Palindrome Partitioning II]()
+- [87. Scramble String]()
+- [312. Burst Balloons]()
+
+#### Value-based bottom-up method
