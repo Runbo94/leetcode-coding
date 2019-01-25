@@ -5,3 +5,4 @@
 - [Video Recommendation](video.recommendation.md)
 - [Dynamic Programming](dynamic_programming.md)
 - [0/1 Knapsack Problem Dynamic Programming](zero_one_knapsack_DP.md)
+- [304. Range Sum Query 2D - Immutable](./dp/304.md)
