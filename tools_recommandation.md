@@ -7,13 +7,17 @@
   - Download [visual studio code](https://code.visualstudio.com/)
   - Download some extension pack in visual studio code.
     - Open the visual studio code, find the **Extension** button
-      ![extension](./pictures/extension_button.jpg) <br>
+      <!-- ![extension](./pictures/extension_button.jpg) <br> -->
+      <img src="./pictures/extension_button.jpg" width="792"  /><br>
     - Language Support for Java(TM) by Red Hat.
     - Debugger for Java.
   - Create file and coding the solution.
-    ![create_new_file](./pictures/vscode_create_new_java.jpg) <br>
 
-    ![create_new_class](./pictures/vscode_create_new_class.jpg) <br>
+    <!-- ![create_new_file](./pictures/vscode_create_new_java.jpg) <br> -->
+    <img src="./pictures/vscode_create_new_java.jpg" width="792"  />
+
+    <!-- ![create_new_class](./pictures/vscode_create_new_class.jpg) <br> -->
+    <img src="./pictures/vscode_create_new_class.jpg" width="792" />
 
     The simple code structure <br>
 
