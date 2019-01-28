@@ -8,7 +8,7 @@
   - Download some extension pack in visual studio code.
     - Open the visual studio code, find the **Extension** button
       <!-- ![extension](./pictures/extension_button.jpg) <br> -->
-      <img src="./pictures/extension_button.jpg" width="1584"  /><br>
+      <img src="./pictures/extension_button.jpg" width="792" height="445.5" /><br>
     - Language Support for Java(TM) by Red Hat.
     - Debugger for Java.
   - Create file and coding the solution.
