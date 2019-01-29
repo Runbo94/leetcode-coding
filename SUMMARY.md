@@ -9,3 +9,4 @@
   - [304. Range Sum Query 2D - Immutable](./dp/304.md)
   - [264. Ugly Number II](./dp/264.md)
   - [322. Coin Change](./dp/322.md)
+  - [91. Decode Ways](./dp/91.md)
