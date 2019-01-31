@@ -1,6 +1,6 @@
 # The Cost of a Tree
 
-一道 Mathworks 的 OA 题，做的时候点到了屏幕外面，直接跳出来了 gg，一千头草泥马奔过，下回做要全屏的 OA，可不敢再连第二屏幕了。难受~
+一道 Mathworks 的 OA 题，做的时候点到了屏幕外面，直接跳出来了 gg，一千头草泥马奔过，下回做要全屏的 OA，可不敢再连第二屏幕了。难受~<br>
 题目描述：
 Given an array of integers, construct a tree. Each node tree has either two children or none, in which case it is a leaf node. A leaf node costs 0 to construct. The cost to build a parent node is the product of the maximum leaf values in its lef and right sub-trees. Partition the array to minimize the cost of building the entire tree.<br>
 For example, there are n=3 elements in the array: arr=[4, 6, 2]. There are two possible choices to split the array: {4}, {6,2} and {4,6}, {2}. The array elements can not be reordered. Leaves are shown in green, and parent nodes are in blue.<br>
