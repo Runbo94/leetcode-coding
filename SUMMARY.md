@@ -10,3 +10,4 @@
   - [264. Ugly Number II](./dp/264.md)
   - [322. Coin Change](./dp/322.md)
   - [91. Decode Ways](./dp/91.md)
+  - [The Cost of a Tree](./dp/theCostOfATree.md)
