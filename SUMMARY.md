@@ -22,4 +22,5 @@
 - Google
   - [289. Game of Life](./Google/289.md)
 - [146. LRU Cache](./Google/146.md)
-- 顺序解题 -[3. Longest Substring Without Repeating Characters](./ascending/3.md)
+- 顺序解题
+  - [3. Longest Substring Without Repeating Characters](./ascending/3.md)
