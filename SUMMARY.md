@@ -17,3 +17,9 @@
   - [206. Reverse Linked List](./Facebook/206.md)
   - [13. Roman to Integer](./Facebook/13.md)
   - [253. Meeting Rooms II](./Facebook/253.md)
+  - [621. Task Scheduler](./Facebook/621.md)
+  - [273. Integer to English Words](./Facebook/273.md)
+- Google
+  - [289. Game of Life](./Google/289.md)
+- [146. LRU Cache](./Google/146.md)
+- 顺序解题 -[3. Longest Substring Without Repeating Characters](./ascending/3.md)
